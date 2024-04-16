@@ -1,4 +1,7 @@
+<img src="https://github.com/jdgabriel/descomplicando_kubernetes/blob/main/images/k8s.png"/>
+
 # Descomplicando Kubernetes
+
 ## DIA - #1
 ### 1. Ferramentas
 #### Docker
